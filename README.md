@@ -1,6 +1,6 @@
 # Credit Card Spending Habits in India SQL
 
-![custom](https://github.com/AmitPatel-analyst/SQL-Case-Study/blob/main/Credit%20card%20spending%20habits%20in%20India/Credit%20Card%20Image.jpg)
+![custom](https://github.com/Kashifletslearn/Credit-Card-Spending-Habits-in-India-SQL/blob/main/Credit%20Card%20Spending%20Habits%20in%20India%20image.png)
 I recently came across a case study on the Kaggle website. As a data analyst, I found this challenge to be a great way to showcase my SQL skills and improve my problem-solving abilities.
 
 Imported the dataset in SQL server with table name: credit_card_transcations             
